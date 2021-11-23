@@ -1,4 +1,22 @@
 ## Olá! seja bem vindo ao meu perfil 🐱‍👤
+HABILIDADES E FERRAMENTAS
+
+• 👨‍💻 Desenvolvimento: Python, SQL<br>
+• 📈 Pacote Office: Completo<br>
+• 🎲 SGBD: SQLServer<br>
+• 🐾 Versionamento: Git/GitHub<br>
+• 📊 Data Visualization: Power BI<br>
+
+• Inglês:<br>
+Leitura/escrita - Intermediário<br>
+Conversação - Básico
+
+• Espanhol:<br>
+Leitura/conversação - Avançado<br>
+Escrita - Intermediário
+
+🌐 https://medium.com/@joampca<br>
+🤝 https://www.linkedin.com/in/joampca/
 <div align="center">
   <a href="https://github.com/joampca">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joampca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
