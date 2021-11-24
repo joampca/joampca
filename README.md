@@ -3,7 +3,7 @@ HABILIDADES E FERRAMENTAS
 
 • 👨‍💻 Desenvolvimento: Python, SQL<br>
 • 📈 Pacote Office: Completo<br>
-• 🎲 SGBD: SQLServer<br>
+• 🎲 SGBD: SQLServer/ SqLite<br>
 • 🐾 Versionamento: Git/GitHub<br>
 • 📊 Data Visualization: Power BI<br>
 
