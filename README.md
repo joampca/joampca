@@ -1,26 +1,19 @@
 ## Olá! seja bem vindo ao meu perfil 🐱‍👤
-HABILIDADES E FERRAMENTAS
+<pre>HABILIDADES E FERRAMENTAS
 
-• 👨‍💻 Desenvolvimento: Python, SQL<br>
-• 📈 Pacote Office: Completo<br>
-• 🎲 SGBD: SQLServer/ SqLite<br>
-• 🐾 Versionamento: Git/GitHub<br>
-• 📊 Data Visualization: Power BI<br>
-
-• Inglês:<br>
-Leitura/escrita - Intermediário<br>
-Conversação - Básico
-
-• Espanhol:<br>
-Leitura/conversação - Avançado<br>
-Escrita - Intermediário
-
-🌐 https://medium.com/@joampca<br>
-🤝 https://www.linkedin.com/in/joampca/
+• 👨‍💻 Desenvolvimento: Python, SQL                               • 🌍 Inglês:           
+• 📈 Pacote Office: Completo	                                Leitura/escrita - Intermediário
+• 🎲 SGBD: SQLServer/ SqLite                                    Conversação - Básico
+• 🐾 Versionamento: Git/GitHub                                 
+• 📊 Data Visualization: Power BI                               • 🌍 Espanhol:
+                                                                Leitura/conversação - Avançado
+                                                                Escrita - Intermediário
+• 🌐 https://medium.com/@joampca
+• 🤝 https://www.linkedin.com/in/joampca</pre>
 <div align="center">
   <a href="https://github.com/joampca">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joampca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joampca&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joampca&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joampca&layout=compact&langs_count=7&theme=merko"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
