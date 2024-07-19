@@ -1,4 +1,4 @@
-## Olá! seja bem vindo ao meu perfil 🐱‍👤
+## Hi! Welcome to my profile 🐱‍👤
 <pre>Skills and Tools
 
 • 👨‍💻 Development: Python, SQL                                          
@@ -7,6 +7,7 @@
 • 🐾 Versioning: Git/GitHub                                 
 • 📊 Data Visualization: Power BI
 • 🔍 Monitoring: Datadog 
+• ☁️ Cloud: AWS
 
 • 🌍 Portuguese: Native  
 • 🌍 English: Limited working proficiency
