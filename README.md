@@ -3,7 +3,7 @@
 
 • 👨‍💻 Desenvolvimento: Python, SQL                               • 🌍 Inglês:           
 • 📈 Pacote Office: Completo	                                Leitura/escrita - Intermediário
-• 🎲 SGBD: SQLServer/ PostgreSQL/ SQLite                        Conversação - Básico
+• 🎲 SGBD: MySQL                       Conversação - Básico
 • 🐾 Versionamento: Git/GitHub                                 
 • 📊 Data Visualization: Power BI                               • 🌍 Espanhol:
                                                                 Leitura/conversação - Avançado
