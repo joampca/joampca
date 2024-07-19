@@ -7,7 +7,7 @@
 • 🐾 Versionamento: Git/GitHub                                 
 • 📊 Data Visualization: Power BI                               • 🌍 Espanhol:
                                                                 Leitura/conversação - Avançado
-                                                                Escrita - Intermediário
+                                                                Escrita - Avançado
 • 🌐 https://medium.com/@joampca
 • 🤝 https://www.linkedin.com/in/joampca</pre>
 <div align="center">
