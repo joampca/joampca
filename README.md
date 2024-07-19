@@ -1,15 +1,20 @@
 ## Olá! seja bem vindo ao meu perfil 🐱‍👤
-<pre>HABILIDADES E FERRAMENTAS
+<pre>Skills and Tools
 
-• 👨‍💻 Desenvolvimento: Python, SQL                               • 🌍 Inglês:           
-• 📈 Pacote Office: Completo	                                Leitura/escrita - Intermediário
-• 🎲 SGBD: MySQL                                              Conversação - Básico
-• 🐾 Versionamento: Git/GitHub                                 
-• 📊 Data Visualization: Power BI                               • 🌍 Espanhol:
-                                                                Leitura/conversação - Avançado
-                                                                Escrita - Avançado
+• 👨‍💻 Development: Python, SQL                                          
+• 📈 Office: Completo	                                 
+• 🎲 SGBD: MySQL                                              
+• 🐾 Versioning: Git/GitHub                                 
+• 📊 Data Visualization: Power BI
+• 🔍 Monitoring: Datadog 
+
+• 🌍 Portuguese: Native  
+• 🌍 English: Limited working proficiency
+• 🌍 Spanish: Full professional proficiency
+                                                    
 • 🌐 https://medium.com/@joampca
 • 🤝 https://www.linkedin.com/in/joampca</pre>
+
 <div align="center">
   <a href="https://github.com/joampca">
 </div>
@@ -19,9 +24,6 @@
   <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
-
-
   
 </div>
   
