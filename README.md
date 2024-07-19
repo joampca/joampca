@@ -2,7 +2,7 @@
 <pre>Skills and Tools
 
 • 👨‍💻 Development: Python, SQL                                          
-• 📈 Office: Completo	                                 
+• 📈 Office: Full	                                 
 • 🎲 SGBD: MySQL                                              
 • 🐾 Versioning: Git/GitHub                                 
 • 📊 Data Visualization: Power BI
