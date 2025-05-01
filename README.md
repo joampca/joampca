@@ -1,7 +1,7 @@
 ## Hi! Welcome to my profile 🐱‍👤
 <pre>Skills and Tools
 
-• 👨‍💻 Development: Python, SQL                                          
+• 👨‍💻 Development: GO, SQL                                          
 • 📈 Office: Full	                                 
 • 🎲 SGBD: MySQL                                              
 • 🐾 Versioning: Git/GitHub                                 
