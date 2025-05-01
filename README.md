@@ -7,7 +7,7 @@
 • 🐾 Versioning: Git/GitHub                                 
 • 📊 Data Visualization: Power BI
 • 🔍 Monitoring: Datadog 
-• ☁️ Cloud: AWS
+• ☁️ Cloud: GCP
 
 • 🌍 Portuguese: Native  
 • 🌍 English: Limited working proficiency
@@ -20,12 +20,12 @@
   <a href="https://github.com/joampca">
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+
+
 
   
 </div>
