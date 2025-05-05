@@ -10,7 +10,7 @@
 • ☁️ Cloud: GCP
 
 • 🌍 Portuguese: Native  
-• 🌍 English: Limited working proficiency
+• 🌍 English: Professional working proficiency
 • 🌍 Spanish: Full professional proficiency
                                                     
 • 🌐 https://medium.com/@joampca
