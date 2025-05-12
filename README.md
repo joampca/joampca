@@ -1,9 +1,9 @@
 ## Hi! Welcome to my profile 🐱‍👤
 <pre>Skills and Tools
 
-• 👨‍💻 Development: GO, SQL                                          
+• 👨‍💻 Development: Python, GO, SQL                                          
 • 📈 Office: Full	                                 
-• 🎲 SGBD: MySQL                                              
+• 🎲 SGBD: SQL                                              
 • 🐾 Versioning: Git/GitHub                                 
 • 📊 Data Visualization: Power BI
 • 🔍 Monitoring: Datadog 
@@ -20,7 +20,9 @@
   <a href="https://github.com/joampca">
 </div>
   <div style="display: inline_block"><br>
+  <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+  <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 
   
