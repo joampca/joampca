@@ -15,18 +15,6 @@
                                                     
 • 🌐 https://medium.com/@joampca
 • 🤝 https://www.linkedin.com/in/joampca</pre>
-
-<div align="center">
-  <a href="https://github.com/joampca">
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-  <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Joao-Py"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-
-  
-</div>
   
   ##
   
