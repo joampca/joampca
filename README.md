@@ -1,11 +1,10 @@
 ## Hi! Welcome to my profile 🐱‍👤
 <pre>Skills and Tools
 
-• 👨‍💻 Development: Python, GO, JavaScript                               
-• 📈 Office: Full	                                 
+• 👨‍💻 Development: Dart, Go,Python, JavaScript
+• 🛠️ Framework: Flutter  	                                 
 • 🎲 SGBD: SQL                                              
 • 🐾 Versioning: Git/GitHub                                 
-• 📊 Data Visualization: Power BI
 • 🔍 Monitoring: Datadog 
 • ☁️ Cloud: GCP
 
