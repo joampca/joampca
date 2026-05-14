@@ -1,6 +1,6 @@
 ## Skills and Tools
 
-* 👨‍💻 **Development**: Dart, Go, Python, JavaScript
+* 👨‍💻 **Development**: Dart, Python
 * 🛠️ **Framework**: Flutter
 * 🎲 **SGBD**: SQL
 * 🐾 **Versioning**: Git/GitHub
@@ -18,7 +18,7 @@
 ---
 
 ## My Stack
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="30" alt="dart" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="30" alt="flutter" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="30" alt="go" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="python" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="javascript" /></p>
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="30" alt="dart" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="30" alt="flutter" />&nbsp;<img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="python" />&nbsp;
 
 ## Contact & Social
 <p align="left"><a href="mailto:joao.docoutoalves@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"></a>&nbsp;<a href="https://www.linkedin.com/in/joampca/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25"></a>&nbsp;<a href="http://api.whatsapp.com/send?phone=5541997284887" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"></a>&nbsp;<a href="https://open.spotify.com/user/12153814250?si=ejGz5iJmTSqMVJ8c_-j5HQ&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" height="25"></a>&nbsp;<a href="https://joampca.substack.com" target="_blank"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" height="25"></a>&nbsp;<a href="https://lichess.org/@/joampca" target="_blank"><img src="https://img.shields.io/badge/Lichess-000000?style=for-the-badge&logo=lichess&logoColor=white" height="25"></a></p>
